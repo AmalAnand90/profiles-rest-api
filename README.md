@@ -1,2 +1,3 @@
-# profiles-rest-api
-python Django project 
+# Profiles REST API
+
+Profiles REST API course code.
